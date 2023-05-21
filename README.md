@@ -34,7 +34,7 @@ Please attempt the solve the problems described:
 What is the Bash command to discover the IP Address of `www.skillsunion.com`?
 
 ```sh
-# Answer here
+# dig www.skillsunion.com
 ```
 
 ---
